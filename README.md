@@ -9,11 +9,11 @@ I'm a software developer with experience in Java, React, and Spring. I'm passion
 
 ## Skills
 
-- **Java:** I have experience working with Java to build enterprise-level applications. I'm comfortable with core Java concepts such as object-oriented programming and exception handling.
+- **Java:** I have experience working with Java to build REST APIs. I'm comfortable with core Java concepts such as object-oriented programming, collections, streams, funcional programming, servlet containers and exception handling.
 
 - **React:** I have experience building web applications with React. I'm comfortable with core React concepts such as components, state, props, and JSX.
 
-- **Spring:** I have experience building web applications with Spring. I'm comfortable with core Spring concepts such as dependency injection, inversion of control, and aspect-oriented programming.
+- **Spring:** I have experience building web applications and REST APIs with Spring. I'm comfortable with core Spring concepts such as dependency injection, inversion of control, and aspect-oriented programming.
 
 - **C#:** I have knowledge of C# and the .NET framework. I'm comfortable working with C# syntax and .NET concepts such as collections, LINQ, and async/await.
 
@@ -25,7 +25,7 @@ Here are some of the projects I've worked on:
 
 - [API Spring](https://github.com/eduardo-borges-goncalves/api-spring): A RESTful API built with Java and Spring Boot to learn best java spring practices.
 
-- [Raro Class](https://github.com/eduardo-borges-goncalves/Raro-Class): A frontend of a medium application built with react and typescript.
+- [Raro Class](https://github.com/eduardo-borges-goncalves/Raro-Class): A frontend of a web application built with react and typescript.
 
 - [API Car Store (GraphQL Bootcamp Senai)](https://github.com/eduardo-borges-goncalves/Api-Car-Store-GraphQL-Bootcamp-Senai): A GraphQL API for the same fictional car dealership as the first project. Built with C# and .Net
 
