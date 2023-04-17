@@ -17,6 +17,8 @@ I'm a software developer with experience in Java, React, and Spring. I'm passion
 
 - **C#:** I have knowledge of C# and the .NET framework. I'm comfortable working with C# syntax and .NET concepts such as collections, LINQ, and async/await.
 
+- **Postgres** 
+
 ## Projects
 
 Here are some of the projects I've worked on:
