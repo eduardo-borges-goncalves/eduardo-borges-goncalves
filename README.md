@@ -17,8 +17,6 @@ I'm a software developer with experience in Java, React, and Spring. I'm passion
 
 - **C#:** I have knowledge of C# and the .NET framework. I'm comfortable working with C# syntax and .NET concepts such as collections, LINQ, and async/await.
 
-Sure, here's an example "Projects" section for your GitHub profile README, based on the repositories you mentioned:
-
 ## Projects
 
 Here are some of the projects I've worked on:
