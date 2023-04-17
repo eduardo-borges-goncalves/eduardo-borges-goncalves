@@ -1,4 +1,5 @@
 
+## Hi there! 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Eduardo%20Borges%20Gonçalves-blue?logo=linkedin)](https://www.linkedin.com/in/eduardo-borges-goncalves/)
 
